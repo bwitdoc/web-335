@@ -1,2 +1,4 @@
-# web-335
 NoSQL 
+#Contributors
+Professor Krasso - Bellevue University
+Brittany Dockter - Bellevue University
