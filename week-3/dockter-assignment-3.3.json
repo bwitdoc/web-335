@@ -1,0 +1,33 @@
+{
+    "publisher": {
+        "publisher_name": "Penguin Books",
+        "publisher_code": "380",
+        "publisher_address": "133 Lewis Ave, Lake Tahoe, CA 96161",
+        "book": [
+            {
+                "book_isbn": "441-16-00538-16-9",
+                "book_name": "The Little Monster",
+                "book_price": 8.99,
+                "author": {
+                    "author_first_name": "Cameron",
+                    "author_last_name": "Michaels",
+                    "author_phone": "885-616-0029",
+                    "author_email": "cameronmichaelsbooks@gmail.com"
+                }
+            },
+            {
+                "book_isbn": "441-16-00554-16-2",
+                "book_name": "Return of Clark",
+                "book_price": 8.99,
+                "author": [
+                    {
+                        "author_first_name": "ELiza",
+                        "author_last_name": "Thornberry",
+                        "author_phone": "670-221-9910",
+                        "author_email": "elizathorn@yahoo.com"
+                    }
+                ]
+            }
+        ]
+    }
+}
